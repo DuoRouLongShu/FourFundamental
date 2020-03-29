@@ -6,6 +6,6 @@ public class main {
         System.out.println("Mzp的分支");
         System.out.println("MDL的分支");
         System.out.println("Mzp的分支");
-
+        test.print();
     }
 }
