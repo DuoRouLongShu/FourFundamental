@@ -108,8 +108,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="767" />
-    <option name="y" value="135" />
+    <option name="x" value="776" />
+    <option name="y" value="156" />
     <option name="width" value="1178" />
     <option name="height" value="847" />
   </component>
@@ -175,6 +175,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.main" />
         <item itemvalue="Application.main" />
       </list>
     </recent_temporary>
